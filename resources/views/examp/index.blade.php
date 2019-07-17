@@ -1,0 +1,1 @@
+resources/views/examp/index.blade.php
